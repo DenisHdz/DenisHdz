@@ -2,7 +2,7 @@
 
 Welcome to my Github profile!
 
-I am a Software Engineer currently working at <a href="www.bbc.co.uk/news">BBC News</a>, specifically in the World Service team who builds and maintains the <a href="https://www.bbc.co.uk/ws/languages">41 BBC News Language sites</a>.
+I am a Software Engineer currently working at <a href="https://www.bbc.co.uk/news" target="_blank">BBC News</a>, specifically in the World Service team who builds and maintains the <a href="https://www.bbc.co.uk/ws/languages">41 BBC News Language sites</a>.
 
 <h3>Things I code with</h3>
 <p>
