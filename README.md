@@ -2,7 +2,7 @@
 
 Welcome to my Github profile!
 
-I am a Software Engineer currently working at <a href="https://www.bbc.co.uk/news" target="_blank">BBC News</a>, specifically in the World Service team who builds and maintains the <a href="https://www.bbc.co.uk/ws/languages">41 BBC News Language sites</a>.
+I am a Software Engineer currently working at <a href="https://www.bbc.co.uk/news" target="_blank">BBC News</a>.
 
 <h3>Things I code with</h3>
 <p>
@@ -27,5 +27,7 @@ I am a Software Engineer currently working at <a href="https://www.bbc.co.uk/new
 <p>React component library for the BBC World Service and more.</p>
 <h3><a  href="https://github.com/bbc/simorgh">Simorgh</a></h3>
 <p>Isomorphic React application that serves the BBC World Service News websites, with tens of millions of users.</p>
+<h3><a href="https://github.com/bbc/web">WebCore</a></h3>
+<p>New platform for creating the BBC website.</p>
 
 📩 You can contact me on https://denishernandez.com/#contact
