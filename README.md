@@ -4,13 +4,14 @@ Welcome to my Github profile!
 
 I am a Software Engineer currently working at <a href="https://www.bbc.co.uk/news" target="_blank">BBC News</a>.
 
-<h3>Things I code with</h3>
+<h2>Things I code with 👨🏻‍💻</h2>
 <p>
   <img alt="hHTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-264DE4?style=flat&logo=css3&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-764ABC?style=flat&logo=gatsby&logoColor=white" /> 
+  <img alt="NextJS" src="https://img.shields.io/badge/-Next.js-17202C?style=flat&logo=next.js&logoColor=white" /> 
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" />
@@ -22,7 +23,8 @@ I am a Software Engineer currently working at <a href="https://www.bbc.co.uk/new
 
 </p>
 
-<h3>Projects I am working on</h3>
+<h2>Projects I am working on 🛠</h2>
+
 <h3><a href="https://github.com/bbc/psammead">Psammead</a></h3>
 <p>React component library for the BBC World Service and more.</p>
 <h3><a  href="https://github.com/bbc/simorgh">Simorgh</a></h3>
@@ -30,4 +32,18 @@ I am a Software Engineer currently working at <a href="https://www.bbc.co.uk/new
 <h3><a href="https://github.com/bbc/web">WebCore</a></h3>
 <p>New platform for creating the BBC website.</p>
 
+<h2>Stats 📈</h2>
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=denishdz&theme=default&show_icons=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denishdz" />
+    </td>
+  </tr>
+</table>
+
 📩 You can contact me on https://denishernandez.com/#contact
+
