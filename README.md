@@ -2,7 +2,7 @@
 
 Welcome to my Github profile!
 
-I am a Software Engineer currently working at <a href="https://www.bbc.co.uk/news" target="_blank">BBC News</a>.
+I am a Software Engineer currently working at <a href="https://docplanner.tech/" target="_blank">DocPlanner</a>.
 
 <h2>Things I code with 👨🏻‍💻</h2>
 <p>
