@@ -23,15 +23,6 @@ I am a Software Engineer currently working at <a href="https://docplanner.tech/"
 
 </p>
 
-<h2>Projects I am working on 🛠</h2>
-
-<h3><a href="https://github.com/bbc/psammead">Psammead</a></h3>
-<p>React component library for the BBC World Service and more.</p>
-<h3><a  href="https://github.com/bbc/simorgh">Simorgh</a></h3>
-<p>Isomorphic React application that serves the BBC World Service News websites, with tens of millions of users.</p>
-<h3><a href="https://github.com/bbc/web">WebCore</a></h3>
-<p>New platform for creating the BBC website.</p>
-
 <h2>Stats 📈</h2>
 
 <table>
