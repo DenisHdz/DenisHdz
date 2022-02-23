@@ -10,12 +10,11 @@ I am a Software Engineer currently working at <a href="https://docplanner.tech/"
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-264DE4?style=flat&logo=css3&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
-  <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-764ABC?style=flat&logo=gatsby&logoColor=white" /> 
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff" /> 
   <img alt="NextJS" src="https://img.shields.io/badge/-Next.js-17202C?style=flat&logo=next.js&logoColor=white" /> 
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" />
-  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white" />
   <img alt="storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
